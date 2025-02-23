@@ -1,44 +1,47 @@
-███╗   ███╗███████╗██╗  ██╗
-████╗ ████║██╔════╝██║  ██║
-██╔████╔██║█████╗  ███████║
-██║╚██╔╝██║██╔══╝  ██╔══██║
-██║ ╚═╝ ██║███████╗██║  ██║
-╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+```
+███╗   ███╗ █████╗ ██████╗ ██╗  ██╗
+████╗ ████║██╔══██╗██╔══██╗██║  ██║
+██╔████╔██║███████║██████╔╝███████║
+██║╚██╔╝██║██╔══██║██╔═══╝ ██╔══██║
+██║ ╚═╝ ██║██║  ██║██║     ██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
 ```
 
-### Currently working on cool things with code.
+### 👨‍💻 ABOUT ME
+
+Passionate about building software and exploring new technologies.
 
 📧 Contact: **your-email@example.com**  
 🔗 [GitHub](https://github.com/yourusername) • [YouTube](https://youtube.com/) • [Twitter](https://twitter.com/)
 
 ---
 
-### 📜 WRITING
-> Nothing yet.
+### 📝 BLOG / WRITINGS
+> Coming soon...
 
 ---
 
 ### 🚀 PROJECTS
 
-#### **TankOps**  
-[🔗 tankops.xyz](https://tankops.xyz) | [GitHub](https://github.com/tankops)
+#### **ProjectX**  
+[🔗 projectx.xyz](https://projectx.xyz) | [GitHub](https://github.com/projectx)
 
 ```
-Turn-based multiplayer game for browsers.
-Connection via WebSockets, rendering in HTML's <canvas>.
+An experimental platform for real-time collaboration.
+Built with WebSockets, Node.js, and React.
 
-🛠️ Stack: Go, TypeScript, Python (3D renderer for sprite generation)
+🛠️ Stack: TypeScript, Go, Python
 ```
 
-![TankOps Preview](https://your-image-link.com)
+🖼️ ![ProjectX Preview](https://your-image-link.com)
 
 ---
 
-### 🎯 THIS YEAR'S GOALS
-✔️ Make a game  
-✔️ Read books  
-✔️ Learn more natural language of my choice  
+### 🎯 2025 GOALS
+✔️ Contribute to open-source projects  
+✔️ Improve algorithmic problem-solving skills  
+✔️ Build and launch a new side project  
 
 ---
 
-✨ _"Building cool things, one line of code at a time."_
+✨ _"Code. Build. Iterate."_
