@@ -1,16 +1,44 @@
-## Hi there 👋
+███╗   ███╗███████╗██╗  ██╗
+████╗ ████║██╔════╝██║  ██║
+██╔████╔██║█████╗  ███████║
+██║╚██╔╝██║██╔══╝  ██╔══██║
+██║ ╚═╝ ██║███████╗██║  ██║
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-<!--
-**nulldoomer/nulldoomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on cool things with code.
 
-Here are some ideas to get you started:
+📧 Contact: **your-email@example.com**  
+🔗 [GitHub](https://github.com/yourusername) • [YouTube](https://youtube.com/) • [Twitter](https://twitter.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📜 WRITING
+> Nothing yet.
+
+---
+
+### 🚀 PROJECTS
+
+#### **TankOps**  
+[🔗 tankops.xyz](https://tankops.xyz) | [GitHub](https://github.com/tankops)
+
+```
+Turn-based multiplayer game for browsers.
+Connection via WebSockets, rendering in HTML's <canvas>.
+
+🛠️ Stack: Go, TypeScript, Python (3D renderer for sprite generation)
+```
+
+![TankOps Preview](https://your-image-link.com)
+
+---
+
+### 🎯 THIS YEAR'S GOALS
+✔️ Make a game  
+✔️ Read books  
+✔️ Learn more natural language of my choice  
+
+---
+
+✨ _"Building cool things, one line of code at a time."_
